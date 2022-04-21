@@ -18,7 +18,7 @@ De privé region is verdeeld in verschillende subregions. Hierin staan onder and
 -	Youtube audio en video downloaden
 -	Systeem controle (CPU, RAM, etc)
 -	Overige commando’s (smart home)
--	
+
 Een aantal stukken van de code zijn weggelaten in verband met privé gegevens, zoals wachtwoorden.
 
 De API is te bereiken op:
