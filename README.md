@@ -1,4 +1,6 @@
 # Whatsapp 
+![alt text](https://github.com/MelvinTh17/Whatsapp/blob/c95c0604a86c67c1a0e28b38ea5c18f9077d0303/Code/Banner.png?raw=true)
+
  
 Wat zit in deze repository?
 
