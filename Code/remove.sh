@@ -1,0 +1,1 @@
+> /root/wabot/morsescript.sh

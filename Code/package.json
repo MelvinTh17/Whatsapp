@@ -1,0 +1,33 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@justalk/pornhub-api": "^3.5.0",
+    "@narando/stream-consumer": "^0.10.2",
+    "@open-wa/wa-automate": "^4.33.3",
+    "express": "^4.17.2",
+    "express-rate-limit": "^6.3.0",
+    "get-stream": "^6.0.1",
+    "gtts": "^0.2.1",
+    "morse-decoder": "^3.0.1",
+    "mqtt": "^4.3.7",
+    "nodejs-system-info": "^1.0.6",
+    "puppeteer": "^13.3.1",
+    "python-shell": "^3.0.1",
+    "shelljs": "^0.8.5",
+    "stream": "0.0.2",
+    "stream-consumers": "^1.0.2",
+    "systeminformation": "^5.11.2",
+    "xhr2": "^0.2.1",
+    "youtube-mp3-downloader": "^0.7.10",
+    "ytdl-core": "^4.10.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melvin",
+  "license": "MIT"
+}
