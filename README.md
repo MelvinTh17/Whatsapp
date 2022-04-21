@@ -29,5 +29,6 @@ http://178.63.160.219:3000
 
 # Een demo is beschikbaar! Wat moet je doen?
 Stuur fontys naar ‘+44 7537 130306’ via whatsapp.
+
 *Het is een engels nummer i.v.m met het registreren van een tweede whatsapp account*
 
