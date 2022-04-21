@@ -1,4 +1,4 @@
-# Whatsapp
+# Whatsapp 
  
 Wat zit in deze repository?
 
@@ -25,7 +25,7 @@ De API is te bereiken op:
 http://178.63.160.219:3000
 
 
-Een demo is beschikbaar! Wat moet je doen?
+# Een demo is beschikbaar! Wat moet je doen?
 Stuur een fontys naar ‘+44 7537 130306’
 Het is een engels nummer i.v.m met het registreren van een tweede whatsapp account
 
